@@ -48,6 +48,12 @@ Download the Python project source code from the zip and extract the files in yo
 
 The contents of the zip are:     
 
+![Project-File-Structure](https://user-images.githubusercontent.com/54326148/101483949-e4aae680-397e-11eb-8343-e2761c37dca8.jpg)
+
+
+
+
+
 * The “haar cascade files” folder consists of the xml files that are needed to detect objects from the image. In our case, we are detecting the face and eyes of the person.
 * The models folder contains our model file “cnnCat2.h5” which was trained on convolutional neural networks.
 * We have an audio clip “alarm.wav” which is played when the person is feeling drowsy.
