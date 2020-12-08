@@ -103,7 +103,8 @@ A threshold is defined for example if score becomes greater than 15 that means t
 # HOW TO EXECUTE THE PROGRAM?
 
 To start the project, you need to open a command prompt, go to the directory where our main file “drowsiness detection.py” exists. Run the script with this command.
-        python “drowsiness detection.py”
+                               
+               python “drowsiness detection.py”
         
 It may take a few seconds to open the webcam and start detection.
 
